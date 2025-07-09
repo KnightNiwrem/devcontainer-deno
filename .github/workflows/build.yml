@@ -21,4 +21,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: knightniwrem/devcontainer-deno:latest
+          tags: ghcr.io/knightniwrem/devcontainer-deno:latest
